@@ -1,14 +1,50 @@
-Hi, I’m Kahamdev 👋
+# Hi, I’m Kahamdev 👋
 
-I am deeply passionate about the world of software engineering and technology, with a strong interest in solving complex problems through innovative and practical solutions. I thrive on staying updated with the latest industry trends and emerging technologies.
+Cybersecurity & DevSecOps Engineer passionate about Application Security, Secure Software Engineering, SOC/SIEM Operations, and modern full stack development.
 
-Currently, I am advancing my knowledge in web and mobile development while exploring cloud computing. I strongly believe in continuous learning and actively seek opportunities to grow my expertise and apply new skills in real-world projects.
+I specialize in building secure, scalable, and resilient systems by combining cybersecurity practices with software engineering and DevSecOps methodologies.
 
-I am eager to collaborate on projects involving front-end and back-end development. I enjoy working in cross-functional teams, where I can contribute technical expertise and teamwork to build impactful, scalable, and user-friendly applications.
+## 🔐 Areas of Focus
 
-You can reach me at engineerkaham@gmail.com
- or connect with me on LinkedIn: linkedin.com/in/khalid-abdulkadir-494431288
+* Application Security (AppSec)
+* DevSecOps & Security Automation
+* SOC/SIEM Monitoring & Operations
+* Vulnerability Assessment & Penetration Testing (VAPT)
+* Secure Full Stack Development
+* API & Web Security
+* Security Monitoring & Intrusion Detection
+* Linux & Docker-based Environments
 
-I am open to networking, knowledge sharing, and exploring meaningful collaborations within the tech community.
+## 🛠 Technologies & Tools
 
+* React.js
+* Django REST Framework
+* Python
+* PostgreSQL
+* Docker
+* Linux
+* Wazuh
+* Suricata
+* TheHive
+* Cortex
+* Burp Suite
+* Nmap
+* OpenVAS
+* MobSF
 
+## 🚀 Recent Projects
+
+* Mameron Pharmacy Management System
+* MOI Marathon System Security Assessment (SAST & DAST)
+* Wazuh & Suricata SOC/SIEM Monitoring Implementation
+* Internal Network Vulnerability Assessment & Penetration Testing (VAPT)
+* Automated Full & Incremental Backup System using Python
+
+I enjoy building secure applications, improving security operations, automating security workflows, and continuously learning modern cybersecurity and software engineering practices.
+
+📫 Reach me:
+
+* Email: [engineerkaham@gmail.com](mailto:engineerkaham@gmail.com)
+* LinkedIn: linkedin.com/in/khalid-abdulkadir-494431288
+
+Always open to collaboration, learning opportunities, and meaningful tech communities.
