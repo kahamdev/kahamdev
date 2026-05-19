@@ -1,11 +1,11 @@
 # Hi, I’m Kahamdev 👋
 
-Cybersecurity & DevSecOps Engineer passionate about Application Security, Secure Software Engineering, SOC/SIEM Operations, and modern full stack development.
+Software Engineer passionate about Software Development ,Application Security, Secure Software Engineering, SOC/SIEM Operations, and modern full stack development.
 
 I specialize in building secure, scalable, and resilient systems by combining cybersecurity practices with software engineering and DevSecOps methodologies.
 
 ## 🔐 Areas of Focus
-
+* Software development
 * Application Security (AppSec)
 * DevSecOps & Security Automation
 * SOC/SIEM Monitoring & Operations
@@ -17,7 +17,7 @@ I specialize in building secure, scalable, and resilient systems by combining cy
 
 ## 🛠 Technologies & Tools
 
-* React.js
+* React.js / Next.js
 * Django REST Framework
 * Python
 * PostgreSQL
