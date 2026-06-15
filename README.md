@@ -1,30 +1,64 @@
 # Hi, I’m Kahamdev 👋
 
-Software Engineer passionate about Software Development ,Application Security, Secure Software Engineering, SOC/SIEM Operations, and modern full stack development.
+AI & Security Automation Engineer passionate about building intelligent automation solutions, secure applications, and scalable software systems.
 
-I specialize in building secure, scalable, and resilient systems by combining cybersecurity practices with software engineering and DevSecOps methodologies.
+I combine Software Engineering, Python Automation, Artificial Intelligence, DevSecOps, and Application Security to help organizations automate workflows, improve reporting, secure applications, and make data-driven decisions.
 
-## 🔐 Areas of Focus
-* Software development
+## 🚀 Areas of Focus
+
+🤖 Automation & AI Engineering
+* Python Automation & Scripting
+* AI-Powered Report Generation
+* Business Process Automation
+* Data Processing & Analytics Automation
+* API Integration & Workflow Automation
+* Excel & Document Automation
+
+🔐 Cybersecurity & DevSecOps
 * Application Security (AppSec)
-* DevSecOps & Security Automation
-* SOC/SIEM Monitoring & Operations
-* Vulnerability Assessment & Penetration Testing (VAPT)
-* Secure Full Stack Development
-* API & Web Security
-* Security Monitoring & Intrusion Detection
-* Linux & Docker-based Environments
+* Security Automation
+* Vulnerability Assessment & Management
+* Web & API Security Testing
+* SOC/SIEM Monitoring
+* Secure Software Development
+* Linux & Infrastructure Security
+
+💻 Software Engineering
+* Full Stack Web Development
+* REST API Development
+* Backend Systems
+* Database Design
+* Docker-based Deployments
+
 
 ## 🛠 Technologies & Tools
 
+### Programming & Automation
+* Python
+* FastAPI
+* Pandas
+* Automation Scripts
+* REST APIs
+
+### AI & Data
+* OpenAI API
+* AI Assistants
+* Data Processing
+* Power BI
+* Excel Automation
+
+### Development
 * React.js / Next.js
 * Django REST Framework
-* Python
+* Laravel
 * PostgreSQL
+* MySQL
+
+### DevOps & Security
 * Docker
 * Linux
-* Wazuh
-* Suricata
+* Wazuh SIEM
+* Suricata IDS
 * TheHive
 * Cortex
 * Burp Suite
@@ -32,19 +66,61 @@ I specialize in building secure, scalable, and resilient systems by combining cy
 * OpenVAS
 * MobSF
 
-## 🚀 Recent Projects
+
+## 🚀 Featured Projects
+
+🤖 AI & Automation
+
+* AI Security Report Generator  
+  - Automates vulnerability analysis and professional report creation
+
+* Automated Reporting System  
+  - Converts Excel/API data into dashboards and reports
+
+* Python Backup Automation System  
+  - Automated full and incremental backup solution
+
+
+🔐 Security Engineering
+
+* MOI Marathon System Security Enhancement
+  - Web application security assessment
+  - Vulnerability remediation
+  - Secure authentication improvements
+
+* Wazuh & Suricata Security Monitoring Platform
+  - SIEM deployment
+  - IDS integration
+  - Security monitoring automation
+
+* Internal Network Vulnerability Assessment
+  - Infrastructure scanning
+  - Risk analysis
+  - Remediation reporting
+
+
+💻 Software Development
 
 * Mameron Pharmacy Management System
-* MOI Marathon System Security Assessment (SAST & DAST)
-* Wazuh & Suricata SOC/SIEM Monitoring Implementation
-* Internal Network Vulnerability Assessment & Penetration Testing (VAPT)
-* Automated Full & Incremental Backup System using Python
 
-I enjoy building secure applications, improving security operations, automating security workflows, and continuously learning modern cybersecurity and software engineering practices.
+* Secure Full Stack Web Applications
+
+
+## What I Enjoy Building
+
+✔ AI-powered automation tools  
+✔ Security automation systems  
+✔ Secure web applications  
+✔ Data/report automation solutions  
+✔ DevSecOps workflows  
+
 
 📫 Reach me:
 
-* Email: [engineerkaham@gmail.com](mailto:engineerkaham@gmail.com)
-* LinkedIn: linkedin.com/in/khalid-abdulkadir-494431288
+Email: engineerkaham@gmail.com
 
-Always open to collaboration, learning opportunities, and meaningful tech communities.
+LinkedIn:
+linkedin.com/in/khalid-abdulkadir-494431288
+
+
+Always open to collaboration, automation projects, cybersecurity research, and innovative technology solutions.
