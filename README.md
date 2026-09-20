@@ -1,6 +1,6 @@
 # Hi, I’m Kahamdev 👋
 
-## Frontend Engineer | Application Security & Secure Web Development
+## Frontend Engineer | AppSec Engineer
 
 I’m a Frontend Engineer focused on building modern, responsive, high-performance, and secure web applications.
 
@@ -27,8 +27,6 @@ I’m particularly interested in bridging the gap between **Frontend Development
 - REST API Integration
 - State Management
 - Frontend Performance Optimization
-- Core Web Vitals
-- Accessibility
 - Cross-Browser Compatibility
 
 ### 🔐 Application Security
@@ -39,9 +37,7 @@ I’m particularly interested in bridging the gap between **Frontend Development
 - OWASP Top 10
 - OWASP API Security Top 10
 - Secure Authentication & Authorization
-- JWT / OAuth 2.0
 - Role-Based Access Control
-- Input Validation
 - Content Security Policy
 - Security Headers
 - Vulnerability Assessment
@@ -67,14 +63,13 @@ I’m particularly interested in bridging the gap between **Frontend Development
 
 ### Frontend
 
-- React.js
 - Next.js
 - TypeScript
-- JavaScript
 - HTML5
 - CSS3
 - Tailwind CSS
-- TanStack Query
+- Zustand
+- Yup
 
 
 ### Testing & Application Security
@@ -89,11 +84,11 @@ I’m particularly interested in bridging the gap between **Frontend Development
 
 - Git
 - GitHub
+- GitHub Actions
 - Docker
 - Linux
 - CI/CD
-
----
+  
 
 # 🚀 Featured Projects
 
@@ -167,23 +162,6 @@ A practical environment for testing and understanding common API vulnerabilities
 
 ---
 
-## 🛡 Security Engineering Labs
-
-### Wazuh & Suricata Security Monitoring Platform
-
-Security monitoring environment integrating SIEM and IDS technologies.
-
-**Implemented:**
-
-- Wazuh SIEM
-- Suricata IDS
-- Security event monitoring
-- Log analysis
-- Alert generation
-- Incident investigation workflows
-
----
-
 
 # 🧩 What I Enjoy Building
 
@@ -214,11 +192,10 @@ Currently strengthening my expertise in:
 - Advanced React & Next.js
 - TypeScript
 - Frontend Architecture
-- TanStack Query
+- TanStack Query / Zustand
 - Frontend Performance
 - Application Security
 - Web & API Security
-- OAuth 2.0 / OpenID Connect
 - Secure Authentication
 - OWASP Top 10
 - Secure Software Development
